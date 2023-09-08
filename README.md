@@ -1,6 +1,6 @@
 ### Hi, i'm Talita Dias👋
 
-<p align="center">
+<!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
@@ -34,4 +34,4 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 
 
-⭐️ From [@talitasdias](https://github.com/talitasdias)
+⭐️ From [@talitasdias](https://github.com/talitasdias) -->
