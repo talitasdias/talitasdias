@@ -1,5 +1,5 @@
 <div>
- <img width="25%" src="linkendin.png" alt="Github Readme Stats"/>
+ <img width="25%" src="perfil.png" alt="Github Readme Stats"/>
 </div>
 
 ### Hi, I'm Talita Dias!
