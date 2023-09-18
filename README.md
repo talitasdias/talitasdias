@@ -1,6 +1,8 @@
+***
 <div>
  <img width="25%" src="perfil.png" alt="Github Readme Stats"/>
 </div>
+***
 
 ### Hi, I'm Talita Dias!
 
