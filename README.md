@@ -1,8 +1,8 @@
 
 ---
 
-<div text-align="center">
- <img width="25%" src="logo.png" alt="Github Readme Stats"/>
+<div style="text-align:center;">
+ <img width="20%" src="logo.png" alt="Github Readme Stats"/>
 </div>
 
 ---
