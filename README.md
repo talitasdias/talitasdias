@@ -1,7 +1,7 @@
 
 ---
 
-<div style="text-align:center;">
+<div style="margin: auto">
  <img width="20%" src="logo.png" alt="Github Readme Stats"/>
 </div>
 
