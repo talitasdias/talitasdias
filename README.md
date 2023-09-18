@@ -1,5 +1,5 @@
 
-***
+{c:green}***{/c}
 
 <p align="center">
  <img width="20%" src="logo.png" alt="Github Readme Stats"/>
