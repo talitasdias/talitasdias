@@ -13,6 +13,6 @@
 
 ## Main Projects
 
-- <a href='github.com/talitasdias/Python-Insights'>Ptyhon Insights</a>
+- <a href='[github.com/talitasdias/Python-Insights](https://github.com/talitasdias/Python-Insights)'>Ptyhon Insights</a>
 - Python Power Up
 - Python AI
