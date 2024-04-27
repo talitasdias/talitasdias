@@ -14,5 +14,5 @@
 ## Main Projects
 
 - [Python insights](https://github.com/talitasdias/Python-Insights)
-- Python Power Up
-- Python AI
+- [Python Power Up](https://github.com/talitasdias/Python-Power-Up)
+- [Python AI](https://github.com/talitasdias/Python-IA)
