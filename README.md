@@ -1,9 +1,10 @@
 
 ***
 
-<p align="center">
+<h1>
  <img width="20%" src="logo.png" alt="Github Readme Stats"/>
-</p>
+ <span>Talita Dias</span>
+</h1>
 
 ***
 
