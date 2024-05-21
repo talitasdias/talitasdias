@@ -1,16 +1,6 @@
+<img height="80px" src="logo1.png" alt="Github Readme Stats"/>
 
-***
-
-<h1>
- <img width="20%" src="logo.png" alt="Github Readme Stats"/>
- <span>Talita Dias</span>
-</h1>
-
-***
-
-## Hi, I'm Talita Dias!
-
-<p>I am a student of Systems Analysis and Development (ADS) passionate about technology and with great aspirations in the world of web development and software testing. I am excited to share my projects here.</p>
+<p>I am a student of Systems Analysis and Development (ADS), passionate about technology and with great aspirations in the world of data analysis and software testing. I am excited to share my projects here.</p>
 
 ## Main Projects
 
