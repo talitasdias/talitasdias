@@ -4,9 +4,9 @@
 
 ## Main Projects
 
-[![Python-Insights](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=Python-Insights&&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/Python-Insights)
+[![LinkShortener](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=LinkShortener&&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/LinkShortener)
 
-[![Python-Power-Up](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=Python-Power-Up&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/Python-Power-Up)
+[![ECommerce-WebAPI](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=ECommerce-WebAPI&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/ECommerce-WebAPI)
 
 ## Top Langs
 
