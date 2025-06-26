@@ -1,6 +1,6 @@
-<h1><img height="80px" src="logo1.png" alt="Github Readme Stats"/></h1>
+<h1>Hi, i'm Talita Dias</h1>
 <img align="right" alt="vector taken from the website - https://undraw.co/search" height="250" src="undraw_dev_focus_re_6iwt.svg">
-<p align='justify'>I am a student of Systems Analysis and Development (ADS), passionate about technology and with great aspirations in the world of data analysis and software testing. I am excited to share my projects here.</p>
+<p align='justify'>I am a Systems Analysis and Development (ADS) student, passionate about technology and currently focused on becoming a .NET developer. I'm excited to share my journey and projects in backend development and to keep learning and growing in the field.</p>
 
 ## Main Projects
 
