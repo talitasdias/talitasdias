@@ -6,7 +6,7 @@
 
 [![APICatalogo](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=APICatalogo&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/APICatalogo)
 
-[![LinkShortener](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=LinkShortener&&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/LinkShortener)
+[![ApiLinkShortener](https://github-readme-stats.vercel.app/api/pin/?username=talitasdias&repo=LinkShortener&&title_color=fff&text_color=ffffff&bg_color=414192&border_color=ffffff)](https://github.com/talitasdias/ApiLinkShortener)
 
 
 ## Top Langs
